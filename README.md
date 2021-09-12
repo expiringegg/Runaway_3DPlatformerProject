@@ -8,16 +8,18 @@ The area of research we are currently focusing on is how to develop engaging lev
 
 Player controller
 
-Must be Third Person.
-Unlockable Abilities
+- Must be Third Person.
+- Unlockable Abilities
+
 Game Mechanics
 
-AI Enemies / NPC’s
-Movement / Patrols for AI
-Respawning / Checkpoints
-Destructible Environments
-Interactable Buttons / Levers / Doors
-Dynamic Camera Controls
+- AI Enemies / NPC’s
+- Movement / Patrols for AI
+- Respawning / Checkpoints
+- Destructible Environments
+- Interactable Buttons / Levers / Doors
+- Dynamic Camera Controls
+
 The abilities are supposed to let you progress through the game; without a certain ability the player should not be able to move onto next area. Using combinations of abilities to traverse is desirable. The game and flow should feel good for the player and feel polished.
 
 Deadline is 17th May 2021.
